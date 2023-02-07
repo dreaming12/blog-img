@@ -1,3 +1,3 @@
 # blog-img
 
-Save images from my blog.
+What are you looking for? Only images here.
